@@ -4,7 +4,7 @@ This project is developed by Human Robotics Lab at the University of Melbourne b
 # Introduction:
 The framework of this project consists four parts: communication layer, function layer, decision layer, and system (including the SDK for hardware systems, and the system-wide ROS messages).
 
-The communication layer is in charge of intra-robot communication between the on-board computer and the Real Time low-level robot controller. Currently, it supports the ACCR-UTGV platform and will support DJI AI Robot in short future. These are two main UGV platforms we have currently in the lab.
+The communication layer is in charge of intra-robot communication between the on-board computer and the Real Time low-level robot controller. Currently, it supports the DJI AI Robot platform.
 
 The function layer contains the most of the functions including perception, navigation, and some other small functions.
 
