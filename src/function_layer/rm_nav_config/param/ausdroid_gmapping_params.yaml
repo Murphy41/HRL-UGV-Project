@@ -1,0 +1,11 @@
+base_frame: base_link
+map_frame: map
+odom_frame: odom
+
+maxUrange: 30.0
+particles: 80
+
+srr: 0.05 # rho/rho
+srt: 0.5 # rho/theta
+str: 0.5 # theta/rho
+stt: 0.2 # theta/theta
